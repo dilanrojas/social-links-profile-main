@@ -56,7 +56,7 @@ body {
 /* Contents */
 .social-profile {
   display: grid;
-  place-items: center;
+  place-content: center;
 
   position: relative;
   min-height: 100dvh;
