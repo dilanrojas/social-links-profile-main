@@ -1,4 +1,4 @@
-## Live previe 
+## Live preview
 
 [Click Here](https://social-links-profile-frontend.pages.dev/)
 
