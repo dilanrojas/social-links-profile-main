@@ -1,3 +1,7 @@
+## Live preview
+
+[Click Here](https://social-links-profile-frontend.pages.dev/)
+
 ## Installation
 
 To run the project locally, follow these steps:
