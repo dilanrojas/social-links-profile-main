@@ -143,7 +143,10 @@ body {
 .container {
   --max-width: 1440px;
   --padding: 1rem;
+  --max-height: 100dvh;
 
+  max-height: min(var(--max-height), 100% - (var(--padding) * 2));
   max-width: min(var(--max-width), 100% - (var(--padding) * 2));
   margin-inline: auto;
+  overflow: auto;
 }
